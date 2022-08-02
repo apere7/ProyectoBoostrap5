@@ -1,0 +1,1 @@
+<img border="1" img src="<?php echo $_prefi1;?>img/titulo1.gif" width="1275" height="65" align="center"></img>
